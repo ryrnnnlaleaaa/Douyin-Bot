@@ -1,5 +1,7 @@
 # 如何在抖音上找到漂亮小姐姐----抖音机器人
 
+Python + ADB helper that scrolls Douyin, scores faces via Tencent’s API, and likes/follows when beauty exceeds your threshold; calibrate `config/` if your screen size is not 1920×1080.
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)      
 
 最近沉迷于抖音无法自拔，常常花好几个小时在抖音**漂亮小姐姐**身上。
